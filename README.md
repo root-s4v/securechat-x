@@ -1,3 +1,5 @@
+Secure multi-client chat system implementing RSA-based authentication and AES session encryption to enable end-to-end secure communication over untrusted networks.
+
 # SecureChat-X
 
 
